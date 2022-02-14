@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "876393502348",
+    "project_id": "flutter-login-task",
+    "storage_bucket": "flutter-login-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876393502348:android:69f01ba624a76bb97d8da9",
+        "android_client_info": {
+          "package_name": "com.example.login_screen_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876393502348-gm20e71vgl3chamnr74e9iesjnh1q271.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuf4-GlK3Gxaoq8v0UU7FkS65pS_McLIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876393502348-gm20e71vgl3chamnr74e9iesjnh1q271.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
